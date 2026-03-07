@@ -1,0 +1,10 @@
+.container {
+  background: #e8dfc8;
+  min-height: 100vh;
+}
+
+.page {
+  background: #e8dfc8;
+  min-height: 100vh;
+  padding: 40px;
+}
